@@ -10,7 +10,7 @@ A clear and concise description of what the bug is.
 **How to Reproduce**
 Steps to reproduce the behavior:
 
-1.  Go to '...'
+1.  Go to '...' 
 2.  Click on '...'
 3.  Enter value '...' in input '...'
 4.  See error '...'
